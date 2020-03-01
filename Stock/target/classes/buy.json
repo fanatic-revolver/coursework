@@ -1,0 +1,24 @@
+{
+	"BUY_LIST": [
+		{
+			"Price": "103",
+			"Amount": "200"
+		},
+		{
+			"Price": "102",
+			"Amount": "100"
+		},
+		{
+			"Price": "102",
+			"Amount": "400"
+		},
+		{
+			"Price": "99",
+			"Amount": "400"
+		},
+		{
+			"Price": "98",
+			"Amount": "300"
+		}
+	]
+}

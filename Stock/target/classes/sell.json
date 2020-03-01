@@ -1,0 +1,24 @@
+{
+	"SELL_LIST": [
+		{
+			"Price": "95",
+			"Amount": "200"
+		},
+		{
+			"Price": "98",
+			"Amount": "100"
+		},
+		{
+			"Price": "98",
+			"Amount": "200"
+		},
+		{
+			"Price": "102",
+			"Amount": "100"
+		},
+		{
+			"Price": "103",
+			"Amount": "200"
+		}
+	]
+}

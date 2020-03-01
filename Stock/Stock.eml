@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_13_PREVIEW" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<lib name="commons-io-2.6-tests.jar" scope="COMPILE">
+		<srcroot url="jar://$USER_HOME$/Desktop/Software Mainten/commons-io-2.6/commons-io-2.6-sources.jar!/"/>
+		<srcroot bind="false" url="jar://$USER_HOME$/Desktop/Software Mainten/commons-io-2.6/commons-io-2.6-test-sources.jar!/"/>
+	</lib>
+</component>
