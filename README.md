@@ -13,6 +13,6 @@ C progamming of dijstra algoritem of a train ticket price system
 
 Agent based Haskell program simulating Thomas scheduling
 
-Java and javafx program used to play pacman
+Java and javafx program used to built pacman
 
 
