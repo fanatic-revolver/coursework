@@ -8,3 +8,7 @@ Image classification using matlab
 Hotel Management System using PHP
 
 3 tasks of thread programming using C
+
+C progamming of dijstra algoritem of a train ticket price system.
+
+
