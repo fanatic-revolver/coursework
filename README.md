@@ -15,4 +15,6 @@ Agent based Haskell program simulating Thomas scheduling
 
 Java and javafx program used to built pacman
 
+C++ solving traveling salesman  and  self-made  cpp file similarity check
+
 
