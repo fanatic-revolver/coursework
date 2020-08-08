@@ -19,4 +19,6 @@ C++ solving traveling salesman  and  self-made  cpp file similarity check
 
 language and computation coursework
 
+Artificial intelligence methods CW(About Memetic Algorithm for Multi-Dimensional Knapsack Problem)
+
 
