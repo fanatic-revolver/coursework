@@ -21,4 +21,6 @@ language and computation coursework
 
 Artificial intelligence methods CW(About Memetic Algorithm for Multi-Dimensional Knapsack Problem)
 
+Group Work Project
+
 
