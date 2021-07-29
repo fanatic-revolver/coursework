@@ -23,4 +23,6 @@ Artificial intelligence methods CW(About Memetic Algorithm for Multi-Dimensional
 
 Group Research Project
 
+Big Data Coursework and Paper !!!
+
 
